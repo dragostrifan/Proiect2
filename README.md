@@ -1,8 +1,8 @@
 # Travelwebsite-full-project
 
-<a href="https://dragostrifan.github.io/Travelwebsite-full-project/">Link</a>
+<a href="https://dragostrifan.github.io/Travelwebsite-full-project/">Link to website</a>
 
-This is a full responsive travel website.The technologies used are: HTML / CSS / JAVASCRIPT.
+This is a full responsive travel website.The technologies used are: <b>HTML</b> / <b>CSS</b> / <b>JAVASCRIPT</b>.
 
 With the help of javascript I created the local time that I added to the navbar, a scrollbutton to top and the login and navbar buttons to be functional.
 
