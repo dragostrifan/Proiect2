@@ -1153,7 +1153,7 @@ header.sticky{
   .container-img2 img {
     width: 500px;
     height: auto;
-    margin-left: 50px;
+    
 }
 
   .navbar{
@@ -1227,6 +1227,8 @@ header.sticky{
     align-items: center;
   }
 
+
+
   .about{
     width: 100%;
     text-align: center;
@@ -1257,13 +1259,13 @@ header.sticky{
   .container-img1 img {
     width: 330px;
     height: auto;
-    margin-left: 50px;
+    
 }
 
   .container-img2 img {
     width: 330px;
     height: auto;
-    margin-left: 50px;
+    
 }
 
   .newsletter form{
