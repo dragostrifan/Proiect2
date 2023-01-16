@@ -1241,19 +1241,20 @@ header.sticky{
   }
   
   .about-img img{
-    width: 450px;
+    width: 80%;
     height: auto;
 }
 
   .about-img1 img {
-    width: 450px;
-    height: 300px;
+    height: auto;
+    width: 80%;
+    float: left;
 }
 
   .about-img2 img {
-    width: 450px;
+    width: 100%;
     height: 300px;
-    align-items: center;
+    
 }
 
   .container-img1 img {
@@ -1263,7 +1264,7 @@ header.sticky{
 }
 
   .container-img2 img {
-    width: 330px;
+    width: 100%;
     height: auto;
     
 }
