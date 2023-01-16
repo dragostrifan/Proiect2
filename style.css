@@ -725,6 +725,7 @@ header.sticky{
   border-radius: 4px;
   transition: all 1s ease 0s;
   cursor: pointer;
+  color: black;
 }
 
 
